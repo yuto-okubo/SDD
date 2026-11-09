@@ -6,6 +6,7 @@
 > **仕様駆動開発で大切なやり取りの過程も公開しています。**
 > 外部APIの更新にどう対応したかは、[#98](https://github.com/elvezjp/SDD/issues/98) から調査、判断、修正の流れをたどれます。
 
+追加
 # SDD (Spec-Driven Development) Practice Repository
 
 [English](./README.md) | [日本語](./README_ja.md)
